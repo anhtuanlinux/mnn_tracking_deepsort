@@ -5,7 +5,7 @@ Install and run this project
 
 Step 1: Clone the repository: 
 
-`git clone https://github.com/anhtuanlinux/tracking_deepsort_mnn.git`
+`git clone https://github.com/anhtuanlinux/mnn_tracking_deepsort.git`
 
 Step 2: CD to the main folder
 
