@@ -9,7 +9,7 @@ Step 1: Clone the repository:
 
 Step 2: CD to the main folder
 
-`cd tracking_deepsort_mnn/MNN/python`
+`cd mnn_tracking_deepsort/MNN/python`
 
 Step 2: Install libraries and all requirements dependencies:
 
