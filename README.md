@@ -42,3 +42,5 @@ where --model_path: MNN model file path
 Result:
 
 Output video is saved at `mnn_tracking_deepsort/MNN/python/runs/track/face_detect_osnet_ibn_x1_0_MSMT17/short_video_test_02.mp4`
+
+Output MOT format text file is saved at  `mnn_tracking_deepsort/MNN/python/runs/track/face_detect_osnet_ibn_x1_0_MSMT17/tracks/short_video_test_02.txt`
